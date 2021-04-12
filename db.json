@@ -1,7 +1,7 @@
 [
 
-{"userId" : "one", "voucher":"AKSJADH"},
+	{"userId" : "one", "voucher":"AKSJADH"},
 
-{"userId":"two","voucher":"KLASJDK"}
+        {"userId":"two","voucher":"KLASJDK"}
 
 ]
